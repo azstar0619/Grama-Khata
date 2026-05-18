@@ -33,12 +33,6 @@ A modern Android application built with **Kotlin** and **Jetpack Compose** for m
 
 ---
 
-## 📱 Screenshots
-
-*(Add screenshots here once you upload them to the repo)*
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
